@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# MINE
+.vscode/
+ex0*/**
+!*.hpp
+!*.cpp
+!Makefile
